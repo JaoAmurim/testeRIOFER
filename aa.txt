@@ -1,0 +1,13 @@
+| Página                  | Objetivo                              |
+| ----------------------- | ------------------------------------- |
+| `index.html`            | Apresentação geral + destaques        |
+| `empresa.html`          | Missão, visão, história               |
+| `servicos.html`         | Explicação dos serviços com imagens   |
+| `estrutura.html`        | Máquinas, galpão, capacidade          |
+| `portfolio.html`        | Projetos finalizados e clientes       |
+| `orcamento.html`        | Formulário de cotação funcional       |
+| `contato.html`          | E-mail, telefone, mapa, WhatsApp      |
+| `faq.html`              | Dúvidas frequentes (se útil)          |
+| `trabalhe.html`         | Envio de currículos (opcional)        |
+| `sustentabilidade.html` | Responsabilidade ambiental (opcional) |
+
